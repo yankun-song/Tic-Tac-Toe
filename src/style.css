@@ -1,0 +1,24 @@
+#gameUI {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.box {
+  box-sizing: border-box;
+  width: 150px;
+  height: 150px;
+}
+
+#board {
+  width: 450px;
+}
+
+.btn {
+  margin-bottom: 20px;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
