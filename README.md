@@ -12,3 +12,6 @@ The hierachy of the components is listed below.
 <img width="1289" alt="image" src="https://user-images.githubusercontent.com/43141076/156960361-d536027b-df14-41c0-8f01-041ead7cb7b2.png">
 
 The state is stored in the _board_ component.
+
+--------
+[Codesmith Tutorial](https://github.com/yankun-song/unit-6-react-tic-tac-toe)
